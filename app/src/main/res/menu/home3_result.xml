@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m3_recap"
+        android:icon="@drawable/ic_photo_camera_black_24dp"
+        android:title="다시 촬영"
+        app:showAsAction="ifRoom|ifRoom" />
+    <item
+        android:id="@+id/m3_reimage"
+        android:icon="@drawable/ic_menu_gallery_white"
+        android:title="이미지로 다시 검색"
+        app:showAsAction="ifRoom|ifRoom" />
+</menu>
